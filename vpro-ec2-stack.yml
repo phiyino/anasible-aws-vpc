@@ -80,7 +80,7 @@
           Owner: DevOps Team
         exact_count: 1
         count_tag:
-          Name: "app01"
+          Name: "web01"
           Project: Vprofile
           Owner: DevOps Team
         group_id: "{{vproStackSG_out.group_id}}"
