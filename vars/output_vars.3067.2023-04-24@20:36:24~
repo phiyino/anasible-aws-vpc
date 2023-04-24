@@ -11,6 +11,3 @@ pubRTid: rtb-0a915dbfbe1fa5235
 NATGWid: nat-0c7a2683e3fafb063
 privRTid: rtb-0bd7af57c39b3add7
 BastionSGid:
-# BEGIN ANSIBLE MANAGED BLOCK
-BastionSGid: sg-0849a7acdc7b7c8a1  
-# END ANSIBLE MANAGED BLOCK
