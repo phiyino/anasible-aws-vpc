@@ -13,4 +13,4 @@ privRTid: rtb-0bd7af57c39b3add7
 # BEGIN ANSIBLE MANAGED BLOCK
 BastionSGid: sg-0849a7acdc7b7c8a1  
 # END ANSIBLE MANAGED BLOCK
-nginx_ami: ami-0aa2b7722dc1b5612
+nginx_ami: ami-069aabeee6f53e7bf
