@@ -8,7 +8,7 @@ privsub2id: subnet-051314dd0e12f8672
 privsub3id: subnet-0262dd7277f000a04
 igwid: igw-078020743e3ce8131
 pubRTid: rtb-0a915dbfbe1fa5235
-NATGWid: nat-0c7a2683e3fafb063
+NATGWid: nat-066e22f5846108aa7
 privRTid: rtb-0bd7af57c39b3add7
 # BEGIN ANSIBLE MANAGED BLOCK
 BastionSGid: sg-0849a7acdc7b7c8a1  
